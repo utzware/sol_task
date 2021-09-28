@@ -1,0 +1,20 @@
+[workspace]
+members = [
+  "associated-token-account/program",
+  "memo/program",
+  "token/cli",
+  "token/program",
+]
+
+exclude = [
+  "token/perf-monitor",
+]
+
+[profile.dev]
+split-debuginfo = "unpacked"
+
+
+
+
+
+

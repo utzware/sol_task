@@ -1,0 +1,14 @@
+c:\Users\utibe\Desktop\migrate_solana\solana_task\sol_task\target\rls\debug\deps\blake3-e27657a7f14acfcb.rmeta: C:\Users\utibe\.cargo\registry\src\github.com-1ecc6299db9ec823\blake3-0.3.8\src\lib.rs C:\Users\utibe\.cargo\registry\src\github.com-1ecc6299db9ec823\blake3-0.3.8\src\guts.rs C:\Users\utibe\.cargo\registry\src\github.com-1ecc6299db9ec823\blake3-0.3.8\src\platform.rs C:\Users\utibe\.cargo\registry\src\github.com-1ecc6299db9ec823\blake3-0.3.8\src\ffi_avx2.rs C:\Users\utibe\.cargo\registry\src\github.com-1ecc6299db9ec823\blake3-0.3.8\src\ffi_avx512.rs C:\Users\utibe\.cargo\registry\src\github.com-1ecc6299db9ec823\blake3-0.3.8\src\portable.rs C:\Users\utibe\.cargo\registry\src\github.com-1ecc6299db9ec823\blake3-0.3.8\src\ffi_sse2.rs C:\Users\utibe\.cargo\registry\src\github.com-1ecc6299db9ec823\blake3-0.3.8\src\ffi_sse41.rs C:\Users\utibe\.cargo\registry\src\github.com-1ecc6299db9ec823\blake3-0.3.8\src\traits.rs C:\Users\utibe\.cargo\registry\src\github.com-1ecc6299db9ec823\blake3-0.3.8\src\join.rs
+
+c:\Users\utibe\Desktop\migrate_solana\solana_task\sol_task\target\rls\debug\deps\blake3-e27657a7f14acfcb.d: C:\Users\utibe\.cargo\registry\src\github.com-1ecc6299db9ec823\blake3-0.3.8\src\lib.rs C:\Users\utibe\.cargo\registry\src\github.com-1ecc6299db9ec823\blake3-0.3.8\src\guts.rs C:\Users\utibe\.cargo\registry\src\github.com-1ecc6299db9ec823\blake3-0.3.8\src\platform.rs C:\Users\utibe\.cargo\registry\src\github.com-1ecc6299db9ec823\blake3-0.3.8\src\ffi_avx2.rs C:\Users\utibe\.cargo\registry\src\github.com-1ecc6299db9ec823\blake3-0.3.8\src\ffi_avx512.rs C:\Users\utibe\.cargo\registry\src\github.com-1ecc6299db9ec823\blake3-0.3.8\src\portable.rs C:\Users\utibe\.cargo\registry\src\github.com-1ecc6299db9ec823\blake3-0.3.8\src\ffi_sse2.rs C:\Users\utibe\.cargo\registry\src\github.com-1ecc6299db9ec823\blake3-0.3.8\src\ffi_sse41.rs C:\Users\utibe\.cargo\registry\src\github.com-1ecc6299db9ec823\blake3-0.3.8\src\traits.rs C:\Users\utibe\.cargo\registry\src\github.com-1ecc6299db9ec823\blake3-0.3.8\src\join.rs
+
+C:\Users\utibe\.cargo\registry\src\github.com-1ecc6299db9ec823\blake3-0.3.8\src\lib.rs:
+C:\Users\utibe\.cargo\registry\src\github.com-1ecc6299db9ec823\blake3-0.3.8\src\guts.rs:
+C:\Users\utibe\.cargo\registry\src\github.com-1ecc6299db9ec823\blake3-0.3.8\src\platform.rs:
+C:\Users\utibe\.cargo\registry\src\github.com-1ecc6299db9ec823\blake3-0.3.8\src\ffi_avx2.rs:
+C:\Users\utibe\.cargo\registry\src\github.com-1ecc6299db9ec823\blake3-0.3.8\src\ffi_avx512.rs:
+C:\Users\utibe\.cargo\registry\src\github.com-1ecc6299db9ec823\blake3-0.3.8\src\portable.rs:
+C:\Users\utibe\.cargo\registry\src\github.com-1ecc6299db9ec823\blake3-0.3.8\src\ffi_sse2.rs:
+C:\Users\utibe\.cargo\registry\src\github.com-1ecc6299db9ec823\blake3-0.3.8\src\ffi_sse41.rs:
+C:\Users\utibe\.cargo\registry\src\github.com-1ecc6299db9ec823\blake3-0.3.8\src\traits.rs:
+C:\Users\utibe\.cargo\registry\src\github.com-1ecc6299db9ec823\blake3-0.3.8\src\join.rs:

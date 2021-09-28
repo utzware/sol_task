@@ -1,0 +1,8 @@
+c:\Users\utibe\Desktop\migrate_solana\solana_task\sol_program\solana-program-library\associated-token-account\program\target\rls\debug\deps\solana_stake_program-5090f1cfeb3047fd.rmeta: C:\Users\utibe\.cargo\registry\src\github.com-1ecc6299db9ec823\solana-stake-program-1.7.11\src\lib.rs C:\Users\utibe\.cargo\registry\src\github.com-1ecc6299db9ec823\solana-stake-program-1.7.11\src\config.rs C:\Users\utibe\.cargo\registry\src\github.com-1ecc6299db9ec823\solana-stake-program-1.7.11\src\stake_instruction.rs C:\Users\utibe\.cargo\registry\src\github.com-1ecc6299db9ec823\solana-stake-program-1.7.11\src\stake_state.rs
+
+c:\Users\utibe\Desktop\migrate_solana\solana_task\sol_program\solana-program-library\associated-token-account\program\target\rls\debug\deps\solana_stake_program-5090f1cfeb3047fd.d: C:\Users\utibe\.cargo\registry\src\github.com-1ecc6299db9ec823\solana-stake-program-1.7.11\src\lib.rs C:\Users\utibe\.cargo\registry\src\github.com-1ecc6299db9ec823\solana-stake-program-1.7.11\src\config.rs C:\Users\utibe\.cargo\registry\src\github.com-1ecc6299db9ec823\solana-stake-program-1.7.11\src\stake_instruction.rs C:\Users\utibe\.cargo\registry\src\github.com-1ecc6299db9ec823\solana-stake-program-1.7.11\src\stake_state.rs
+
+C:\Users\utibe\.cargo\registry\src\github.com-1ecc6299db9ec823\solana-stake-program-1.7.11\src\lib.rs:
+C:\Users\utibe\.cargo\registry\src\github.com-1ecc6299db9ec823\solana-stake-program-1.7.11\src\config.rs:
+C:\Users\utibe\.cargo\registry\src\github.com-1ecc6299db9ec823\solana-stake-program-1.7.11\src\stake_instruction.rs:
+C:\Users\utibe\.cargo\registry\src\github.com-1ecc6299db9ec823\solana-stake-program-1.7.11\src\stake_state.rs:

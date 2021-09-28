@@ -1,0 +1,12 @@
+c:\Users\utibe\Desktop\migrate_solana\solana_task\sol_task\target\rls\debug\deps\tempfile-16ead9172d0c4b56.rmeta: C:\Users\utibe\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.2.0\src\lib.rs C:\Users\utibe\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.2.0\src\dir.rs C:\Users\utibe\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.2.0\src\error.rs C:\Users\utibe\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.2.0\src\file\mod.rs C:\Users\utibe\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.2.0\src\file\imp\mod.rs C:\Users\utibe\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.2.0\src\spooled.rs C:\Users\utibe\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.2.0\src\util.rs C:\Users\utibe\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.2.0\src\file\imp\windows.rs
+
+c:\Users\utibe\Desktop\migrate_solana\solana_task\sol_task\target\rls\debug\deps\tempfile-16ead9172d0c4b56.d: C:\Users\utibe\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.2.0\src\lib.rs C:\Users\utibe\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.2.0\src\dir.rs C:\Users\utibe\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.2.0\src\error.rs C:\Users\utibe\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.2.0\src\file\mod.rs C:\Users\utibe\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.2.0\src\file\imp\mod.rs C:\Users\utibe\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.2.0\src\spooled.rs C:\Users\utibe\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.2.0\src\util.rs C:\Users\utibe\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.2.0\src\file\imp\windows.rs
+
+C:\Users\utibe\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.2.0\src\lib.rs:
+C:\Users\utibe\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.2.0\src\dir.rs:
+C:\Users\utibe\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.2.0\src\error.rs:
+C:\Users\utibe\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.2.0\src\file\mod.rs:
+C:\Users\utibe\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.2.0\src\file\imp\mod.rs:
+C:\Users\utibe\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.2.0\src\spooled.rs:
+C:\Users\utibe\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.2.0\src\util.rs:
+C:\Users\utibe\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.2.0\src\file\imp\windows.rs:
