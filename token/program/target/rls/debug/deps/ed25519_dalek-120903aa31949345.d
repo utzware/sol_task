@@ -1,0 +1,11 @@
+c:\Users\utibe\Desktop\migrate_solana\solana_task\sol_program\solana-program-library\token\program\target\rls\debug\deps\ed25519_dalek-120903aa31949345.rmeta: C:\Users\utibe\.cargo\registry\src\github.com-1ecc6299db9ec823\ed25519-dalek-1.0.1\src\lib.rs C:\Users\utibe\.cargo\registry\src\github.com-1ecc6299db9ec823\ed25519-dalek-1.0.1\src\constants.rs C:\Users\utibe\.cargo\registry\src\github.com-1ecc6299db9ec823\ed25519-dalek-1.0.1\src\keypair.rs C:\Users\utibe\.cargo\registry\src\github.com-1ecc6299db9ec823\ed25519-dalek-1.0.1\src\errors.rs C:\Users\utibe\.cargo\registry\src\github.com-1ecc6299db9ec823\ed25519-dalek-1.0.1\src\public.rs C:\Users\utibe\.cargo\registry\src\github.com-1ecc6299db9ec823\ed25519-dalek-1.0.1\src\secret.rs C:\Users\utibe\.cargo\registry\src\github.com-1ecc6299db9ec823\ed25519-dalek-1.0.1\src\signature.rs
+
+c:\Users\utibe\Desktop\migrate_solana\solana_task\sol_program\solana-program-library\token\program\target\rls\debug\deps\ed25519_dalek-120903aa31949345.d: C:\Users\utibe\.cargo\registry\src\github.com-1ecc6299db9ec823\ed25519-dalek-1.0.1\src\lib.rs C:\Users\utibe\.cargo\registry\src\github.com-1ecc6299db9ec823\ed25519-dalek-1.0.1\src\constants.rs C:\Users\utibe\.cargo\registry\src\github.com-1ecc6299db9ec823\ed25519-dalek-1.0.1\src\keypair.rs C:\Users\utibe\.cargo\registry\src\github.com-1ecc6299db9ec823\ed25519-dalek-1.0.1\src\errors.rs C:\Users\utibe\.cargo\registry\src\github.com-1ecc6299db9ec823\ed25519-dalek-1.0.1\src\public.rs C:\Users\utibe\.cargo\registry\src\github.com-1ecc6299db9ec823\ed25519-dalek-1.0.1\src\secret.rs C:\Users\utibe\.cargo\registry\src\github.com-1ecc6299db9ec823\ed25519-dalek-1.0.1\src\signature.rs
+
+C:\Users\utibe\.cargo\registry\src\github.com-1ecc6299db9ec823\ed25519-dalek-1.0.1\src\lib.rs:
+C:\Users\utibe\.cargo\registry\src\github.com-1ecc6299db9ec823\ed25519-dalek-1.0.1\src\constants.rs:
+C:\Users\utibe\.cargo\registry\src\github.com-1ecc6299db9ec823\ed25519-dalek-1.0.1\src\keypair.rs:
+C:\Users\utibe\.cargo\registry\src\github.com-1ecc6299db9ec823\ed25519-dalek-1.0.1\src\errors.rs:
+C:\Users\utibe\.cargo\registry\src\github.com-1ecc6299db9ec823\ed25519-dalek-1.0.1\src\public.rs:
+C:\Users\utibe\.cargo\registry\src\github.com-1ecc6299db9ec823\ed25519-dalek-1.0.1\src\secret.rs:
+C:\Users\utibe\.cargo\registry\src\github.com-1ecc6299db9ec823\ed25519-dalek-1.0.1\src\signature.rs:
